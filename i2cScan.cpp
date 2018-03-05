@@ -1,6 +1,7 @@
 #include "i2cScan.h"
 #include <Wire.h>
 
+/*commentaires et autres*/
 void i2cScan(){
       int i2c[128];
       byte error, address;
